@@ -1,0 +1,5 @@
+[project]
+name = "ai_integration"
+version = "0.0.1"
+description = "AI Integration for ERPNext"
+authors = [{name = "Eldrin"}]

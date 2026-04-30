@@ -1,0 +1,6 @@
+app_name = "ai_integration"
+app_title = "AI Integration"
+app_publisher = "Eldrin"
+app_description = "AI features for ERPNext"
+app_email = "you@example.com"
+app_license = "MIT"
